@@ -2,8 +2,7 @@
 
 A novel coronavirus antigen kit recognition method based on yolov5 and opencv
 
-    Nucleic acid testing has become an essential part of people's lives in order to reduce the spread of the novel coronavirus,
-which has swept the world and has yet to be effectively treated and controlled. However, nucleic acid testing requires special testing machines and specialized laboratories, which are highly sensitive and usually take 4-6 hours to produce results. Therefore, nucleic acid testing is expensive and time-consuming. The novel coronavirus antigen self-testing kit has low cost,convenient and fast detection, which is favored by the market and effectively realizes home-based monitoring. Therefore, the industry has a good development prospect.
+    Nucleic acid testing has become an essential part of people's lives in order to reduce the spread of the novel coronavirus,which has swept the world and has yet to be effectively treated and controlled. However, nucleic acid testing requires special testing machines and specialized laboratories, which are highly sensitive and usually take 4-6 hours to produce results. Therefore, nucleic acid testing is expensive and time-consuming. The novel coronavirus antigen self-testing kit has low cost,convenient and fast detection, which is favored by the market and effectively realizes home-based monitoring. Therefore, the industry has a good development prospect.
     There are a large number of people in China who need nucleic acid testing every day. Under such circumstances, the use of COVID-19 antigen detection kits for 
 self-testing has played a huge role in improving the efficiency of COVID-19 detection and achieving better control.
 At present, the detection and classification of COVID-19 reagent results mainly rely on manual work. The rectangular structure detection of the label frame required on
