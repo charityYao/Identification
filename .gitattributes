@@ -1,0 +1,5 @@
+{./model/resources/runs/train/exp24/weights/best.onnx
+./model/resources/runs/train/exp24/weights/best.pt
+./model/resources/runs/train/exp24/weights/best.torchscript
+./model/resources/runs/train/exp24/weights/last.pt
+./model/resources/weights/yolov5x.pt} filter=lfs diff=lfs merge=lfs -text
