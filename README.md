@@ -51,10 +51,10 @@ Tritonclient = = 2.28.0
 X2paddle = = 1.3.9  
  
 # Testing
-···
+```python
 python detect.py  --weights runs/train/exp16/weights/best.pt --source ./CovidDataSet/test/image
-···
+```
 # Training
-···
+```python
 python train.py --img 640 --batch 8 --epochs 200 --data ./CovidDataSet/data.yaml --cfg models/yolov5x.yaml --weights weights/yolov5x.pt --cache ram
-···
+```
